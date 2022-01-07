@@ -1,0 +1,26 @@
+::-webkit-scrollbar {
+display: none;
+}
+
+div.scrollmenu1 {
+width: 150px;
+  background-color: transparent;
+  overflow: hidden;
+  white-space: nowrap;
+
+   
+}
+
+div.scrollmenu1 a {
+  display: inline-block;
+  color: grey;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+
+}
+
+div.scrollmenu1 a:hover {
+  background-color: #777;
+
+}
