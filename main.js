@@ -1,11 +1,13 @@
 const people = [
-{name: 'jonah'},
-{name: 'mabeta'},
-{name: 'mando'},
-{name: 'fernando'},
-{name: 'evelyn'},
-{name: 'daniel'},
-{name: 'dope g'}
+
+		{name = Jonah[<a href=""> Jonah </a>]},
+		{name = mabeta[<a href=""> Mabeta </a>]},
+		{name = mando[<a href=""> Mando </a>]},
+		{name = fernando[<a href=""> fernando </a>]},
+		{name = evelyn[<a href=""> Evelyn </a>]},
+		{name = daniel[<a href=""> Daniel </a>]}
+
+		
 ];
 
 const list = document.getElementById('list');
