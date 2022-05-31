@@ -11,6 +11,12 @@ width: 150px;
    
 }
 
+fonx {
+   font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
 div.scrollmenu1 a {
   display: inline-block;
   color: grey;
